@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# CS0169: El campo 'Frm_Reconocimiento.eye' nunca se usa
+dotnet_diagnostic.CS0169.severity = none
+
+# CS0414: El campo 'Frm_Reconocimiento.TrainedFace' está asignado pero su valor nunca se usa
+dotnet_diagnostic.CS0414.severity = none
